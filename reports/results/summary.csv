@@ -1,0 +1,2 @@
+source,pair,hedge_ratio,pair_pvalue,annual_return,annual_volatility,sharpe,max_drawdown,turnover,trading_days,position_changes
+synthetic,MSFT/AAPL,0.925714017787648,0.0005958815187469141,0.14603113237920673,0.0833343198582667,1.6775560233745421,-0.04378229700536718,14.206655347411612,63,68

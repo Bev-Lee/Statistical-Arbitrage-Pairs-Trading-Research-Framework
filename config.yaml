@@ -1,0 +1,21 @@
+research:
+  initial_capital: 100000
+  annualization_factor: 252
+  train_fraction: 0.65
+  z_window: 20
+  entry_z: 2.0
+  exit_z: 0.5
+  target_daily_vol: 0.01
+  max_gross_exposure: 1.0
+  commission_bps: 5
+  slippage_bps: 5
+  min_observations: 120
+universe:
+  - MSFT
+  - AAPL
+  - GOOGL
+  - META
+  - JPM
+  - BAC
+  - KO
+  - PEP
